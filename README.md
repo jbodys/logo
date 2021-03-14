@@ -1,5 +1,4 @@
-# logo
-Logo LetJson
+# Logotyp jBodys
 
 
 ## Font
